@@ -1,0 +1,11 @@
+{
+    "name": "Mongo",
+    "connector": "mongodb",
+    "url": "mongodb+srv://klista:wenawena@empropiedades-vws9o.mongodb.net/test?retryWrites=true&w=majority",
+    "host": "empropiedades-vws9o.mongodb.net",
+    "port": 0,
+    "user": "klista",
+    "password": "wenawena",
+    "database": "test",
+    "useNewUrlParser": true
+}
